@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0007/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 尹文子序尹文子者蓋出於周之尹氏齊宣王時居稷下與宋鈃彭蒙田駢同學於公孫龍公孫龍稱之著書一篇多所彌綸莊子曰不累於物不苟於人不忮於衆願天下之安寧以活於民命人我之養畢足而止之以此白心見侮不辱此其道也而劉向亦以其學本於黃老大較刑名家也近爲誣矣余黃初末始到京師繆熈伯以此書見示意甚玩之而多脫誤聊試條次撰定爲上下篇亦未能究其詳也
+  hash: sha256:9dc51ee1a36f36d58a9a4fadd27bb9cfc4da39fc7788d6f352ceae8be5064535
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0007_SBCK_001-16a}
+body:
+  text: 山陽仲長氏撰定尹文子
+  hash: sha256:98b5d0d69f707e3e12194b621d4063e73316e333dbe844e14d857606c381c9f0
+metadata:
+  title: 尹文子
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:18:01.754290'
+  source:
+    repository: kanripo
+    path: KR5f0007/KR5f0007_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:4705c7c1c8b23bc93a8adf82fdfba214c54693286dd3c86b7badbb64b151dc78
