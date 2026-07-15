@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5f0007_HFL_000-001a, image: hfl/0840/0840-102.png}
 body:
-  text: 山陽仲長氏撰定尹文子者蓋出於周之尹氏齊宣王時居稷下與宋鈃彭蒙田駢同學於公孫龍公孫龍稱之著書一篇多所彌綸莊子曰不累於物不苟於人不忮於衆願天下之安寧以活於民命人我之養畢足而止以此白心見侮不辱此其道也而劉向亦以其學本於黄老大較刑名家也近爲誣矣余黄初末始到京師繆熙伯以此書見示意甚玩之而多脫誤聊試條次撰定爲上下篇亦未能究其詳也
-  hash: sha256:b92efc70016c965695f796021f5c1574be2245a8c27d00b19bb27ce9bb7dbd88
+  text: 山陽仲長氏撰定尹文子者蓋出於周之尹氏齊宣王時居稷下與宋鈃彭蒙田駢同學於公孫龍公孫龍稱之著書一篇多所彌綸莊子曰不纍於物不苟於人不忮於衆願天下之安寧以活於民命人我之養畢足而止以此白心見侮不辱此其道也而劉向亦以其學本於黃老大較刑名家也近為誣矣余黃初末始到京師繆熙伯以此書見示意甚玩之而多脫誤聊試條次撰定為上下篇亦未能究其詳也
+  hash: sha256:eb10357c9875ead82bcced51e6c27aaa8c2fa9497bb6cb82deaefb7a00012ca6
 metadata:
   title: 尹文子
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
-hash: sha256:dd08c410ebd878522e8d82ca24c934babbd9ba6b06d85958d3396a31d2e92b6c
+hash: sha256:43f55954aea04443796b679b8c359149be6a73abc8964f2b6be4e75c4c5a1655
